@@ -5,8 +5,7 @@ Authors@R:
     person("Carwil", "Bjork-James", , "c.bjork-james@vanderbilt.edu", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-4977-0458"))
 Description: Handles string splitting better by returning a list of strings.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
